@@ -1,4 +1,4 @@
-Cloned from https://github.com/aschinchon/abstractions.
+Cloned from https://github.com/aschinchon/abstractions. See also https://fronkonstin.com/2020/08/11/abstractions/.
 
 # Abstractions
 
